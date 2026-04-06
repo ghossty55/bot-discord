@@ -1,4 +1,4 @@
-# 🤖 Discord Bot
+# Discord Bot
 
 A basic Discord bot built in Python using `discord.py`.  
 This bot responds to simple commands and uses environment variables to securely handle the bot token.
